@@ -16,6 +16,8 @@ void ganador(int respuesta, int numero){
   }
 }
 
+
+
 int main() {
 
   Menu();
